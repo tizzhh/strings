@@ -4,6 +4,7 @@ check.h test & gcov_report included!
 Tests usage:
 ------
 ```make test```
+
 ```./test```
 
 Gcov usage:
